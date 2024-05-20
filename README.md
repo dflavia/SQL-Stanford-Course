@@ -5,13 +5,13 @@ All exercises were fulfilled following the constructs supported by SQLite.
 **Movie Rating Database:**
 
 Movie ( mID, title, year, director )
-English: There is a movie with ID number mID, a title, a release year, and a director.
+There is a movie with ID number mID, a title, a release year, and a director.
 
 Reviewer ( rID, name )
-English: The reviewer with ID number rID has a certain name.
+The reviewer with ID number rID has a certain name.
 
 Rating ( rID, mID, stars, ratingDate )
-English: The reviewer rID gave the movie mID a number of stars rating (1-5) on a certain ratingDate.
+The reviewer rID gave the movie mID a number of stars rating (1-5) on a certain ratingDate.
 
 **Social-Network Database:**
 
