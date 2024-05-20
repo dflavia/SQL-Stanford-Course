@@ -1,5 +1,5 @@
 # SQL-Stanford-Course
-Practice exercises based on the Stanford course on Relational Databases and SQL on EDX (SOE.YDB-SQL0001)
+Practice exercises based on the Stanford course on Relational Databases and SQL on EDX (SOE.YDB-SQL0001)\
 All exercises were fulfilled following the constructs supported by SQLite.
 
 **Movie Rating Database:**
